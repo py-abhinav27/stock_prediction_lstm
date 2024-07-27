@@ -6,7 +6,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import datetime
 
-model = load_model(r'C:\Users\DELL\Desktop\Stock Price Prediction\Stock Predictions LSTM.keras')
+model = load_model(r'Stock Predictions LSTM.keras')
 
 st.set_page_config(
     page_title="Stock Price Predicition LSTM",
