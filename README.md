@@ -75,7 +75,7 @@ You can access the live application [here](https://stock-prediciton-lstm.onrende
 
 ## Demo
 
-![Demo](https://imgur.com/a/FI0vSC4)
+![Demo](https://i.imgur.com/lV28fY0.gif)
 
 ## Contributing
 
