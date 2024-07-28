@@ -1,4 +1,4 @@
-# Stock Price Prediction Using Keras
+# Stock Price Prediction Using Keras LSTM
 
 This project aims to predict stock prices using a Keras Sequential model, utilizing the 100 Days Exponential Moving Average (EMA) as the default indicator. The project involves data cleaning, preprocessing, model training, and visualization of results. A Streamlit dashboard is provided for user interaction, allowing selection of stock, start date, and end date, and displaying various stock price plots.
 
@@ -70,7 +70,8 @@ The model predicts future stock prices based on historical data and displays the
 
 ## Deployment
 
-The project is deployed online using Render. You can access the live application [here](https://stock-prediciton-lstm.onrender.com).
+The project is deployed online using Render.It is somewhat slow in loading becuase of I used there free storage option so it can take time to load. 
+You can access the live application [here](https://stock-prediciton-lstm.onrender.com).
 
 ## Demo
 
