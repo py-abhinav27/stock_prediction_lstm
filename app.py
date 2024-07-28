@@ -17,7 +17,7 @@ st.title('Stock Market Predictor')
 
 with st.sidebar:
     a = st.sidebar.text('Thanks for Visiting!')
-    b = st.sidebar.link_button('Check Out on Github','https://github.com/py-abhinav27')
+    b = st.sidebar.link_button('Check Out on Github','https://github.com/py-abhinav27/stock_prediction_lstm/tree/main')
     c = st.sidebar.text('Made with ❤ by Abhinav Trivedi')
 
 stock = st.text_input('Enter Stock Symnbol', 'META')
